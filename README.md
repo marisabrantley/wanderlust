@@ -4,6 +4,8 @@ Feel the need to get away? For the last project of Codecademy's JavaScript cours
 
 This was accomplished using fetch, async, and await functions to request information from Foursquare and OpenWeather APIs.
 
+<img width="512" alt="wanderlust" src="https://user-images.githubusercontent.com/60168324/132966676-085add32-7551-47e5-b937-7ac3178c1544.png">
+
 ## Launch
 
 View the Wanderlust Project here: https://marisabrantley.github.io/magic-8-ball/.
