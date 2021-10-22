@@ -10,7 +10,6 @@ This was accomplished using fetch, async, and await functions to request informa
 
 View the Wanderlust Project here: https://marisabrantley.github.io/wanderlust/.
 
-(Please note, the API's have been hidden.)
 
 ## Class
 
