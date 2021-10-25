@@ -1,11 +1,11 @@
 // Foursquare API Info
 const url = 'https://api.foursquare.com/v2/venues/explore?near=';
-const clientId = config.myApiToken;
-const clientSecret = config.secretApiKey;
+const clientId = 'SQUARE_API_TOKEN';
+const clientSecret = 'SQUARE_API_KEY';
 
 // OpenWeather Info
 const weatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
-const openWeatherKey = config.myApiTokenOw;
+const openWeatherKey = 'WEATHER_API_KEY';
 
 // Page Elements
 const $input = $('#city');
